@@ -147,6 +147,12 @@
 	--------------------------------- */
 
 	body{ font-size: 14px;  }
+	.main-slider{
+		width: auto;
+		background-size: 100%;
+		position: relative;
+		height: 50vh;
+	}
 	
 
 
